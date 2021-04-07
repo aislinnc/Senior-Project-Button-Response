@@ -1,0 +1,19 @@
+timestamp,log_type,message
+0,Exception,NullReferenceException: Object reference not set to an instance of an object
+0,Exception,NullReferenceException: Object reference not set to an instance of an object
+0,Log,Loaded: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+0.02,Warning,"A Canvas named ""[UXF_UI]"" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost but will not be visible while in VR. Is this intentional?"
+12.44371,Log,Updating: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+14.676,Log,trial success
+16.77375,Log,trial fail
+18.71908,Log,trial success
+20.47022,Log,trial fail
+22.2331,Log,trial success
+23.91528,Log,trial fail
+25.5419,Log,trial success
+27.26648,Log,trial fail
+28.85199,Log,trial success
+30.38227,Log,trial fail
+32.57843,Log,trial success
+34.18405,Log,trial success
+35.80766,Log,trial success

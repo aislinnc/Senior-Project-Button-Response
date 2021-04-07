@@ -1,0 +1,22 @@
+{
+    "fixationTime": 1,
+    "stimulusLocation": [
+        1,
+        1,
+        0
+    ],
+    "stimulusTime": 0.5,
+    "targetMoveSpeed": 4,
+    "distractorMoveSpeed": 4,
+    "difficultyLevels": 3,
+    "ApertureRad": 2.5,
+    "PctNoiseDots": 1,
+    "BalanceNoise": true,
+    "Duration": 0.5,
+    "Density": 3.5,
+    "DeterministicSignal": true,
+    "StimDepth": 1.5,
+    "DotSpeed": 10,
+    "DotLife": 0.25,
+    "DotSize": 14
+}

@@ -1,0 +1,2 @@
+directory,experiment,ppid,session_num,trial_num,block_num,trial_num_in_block,start_time,end_time,outcome,difficulty_level,target_direction,distractor_direction,max_angle,target_movement_filename,distractor_movement_filename
+my_experiment/P_210406143420/S001,my_experiment,P_210406143420,1,1,1,1,2.48807,14.14042,,1,Southwest,Northeast,0,target_movement_T001.csv,distractor_movement_T001.csv

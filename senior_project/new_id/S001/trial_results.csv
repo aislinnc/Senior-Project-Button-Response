@@ -1,0 +1,4 @@
+directory,experiment,ppid,session_num,trial_num,block_num,trial_num_in_block,start_time,end_time,outcome,difficulty_level,target_direction,distractor_direction,max_angle,target_movement_filename,distractor_movement_filename
+senior_project/P_210406130210/S001,senior_project,P_210406130210,1,1,1,1,8.534409,,,,,,,,
+senior_project/new_id/S001,senior_project,new_id,1,2,2,1,28.2578,,,,,,,,
+senior_project/new_id/S001,senior_project,new_id,1,3,3,1,70.49323,152.3542,,,,,,target_movement_T003.csv,distractor_movement_T003.csv

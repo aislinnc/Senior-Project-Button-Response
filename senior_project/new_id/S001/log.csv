@@ -1,0 +1,43 @@
+timestamp,log_type,message
+0,Exception,NullReferenceException: Object reference not set to an instance of an object
+0,Exception,NullReferenceException: Object reference not set to an instance of an object
+0,Log,Loaded: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+0.02,Warning,"A Canvas named ""[UXF_UI]"" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost but will not be visible while in VR. Is this intentional?"
+8.534409,Log,Updating: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+8.534409,Exception,InvalidCastException: Specified cast is not valid.
+10.71021,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+10.96951,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+11.17734,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+11.37228,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+11.53644,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+11.70317,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+11.86151,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.01817,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.17142,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.33275,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.50238,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.68196,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.78275,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+12.85728,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+14.85393,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.02296,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.20051,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.36238,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.54295,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.7109,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+15.8793,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.03656,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.20755,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.42113,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.5938,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.77556,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+16.947,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+17.13161,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+17.28776,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+28.2578,Log,Updating: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+28.2578,Exception,InvalidCastException: Specified cast is not valid.
+29.15573,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+29.35495,Exception,Exception: Participant ID already exists! Enter a new ID or select the existing participant from the dropdown.
+65.52198,Log,Loaded: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+70.49323,Log,Updating: C:\Users\aisli\OneDrive\Documents\GitHub\Senior Project\Senior-Project\participant_list.csv
+70.49323,Exception,InvalidCastException: Specified cast is not valid.
